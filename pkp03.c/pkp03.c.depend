@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1480243225 source:c:\users\admin\desktop\code\cpp\pkp03.c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1480243206 source:c:\users\admin\desktop\code\cpp\pkp03.c\pkp03.c
+	<stdio.h>
+
